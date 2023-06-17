@@ -170,3 +170,11 @@
 .cont{
     justify-content: space-between;
 }
+.content h2{
+    color: black;
+    text-align: center;
+    font-family: 'Fascinate', cursive;
+}
+.card p{
+    text-align: center;
+}
